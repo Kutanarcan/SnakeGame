@@ -6,6 +6,7 @@
 - C# Based Architecture
 - Initialize-DeInitialize and Relaunch The Game At will
 - Draw Call Optimized
+- Event Based Communication
 - Monobehaviour Used as Frontend
 
 
