@@ -266,7 +266,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1023091118328502989, guid: 2187b1edf5efc419c87676da6f5675ad, type: 3}
       propertyPath: m_Name
-      value: SnakeGameMono
+      value: GameStarter
       objectReference: {fileID: 0}
     - target: {fileID: 4729484896167871106, guid: 2187b1edf5efc419c87676da6f5675ad, type: 3}
       propertyPath: m_LocalPosition.x

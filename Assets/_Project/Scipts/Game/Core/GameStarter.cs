@@ -1,17 +1,10 @@
 using System;
 using Snake.Runtime.CSharp;
-using Snake.Runtime.Mono;
 using UnityEngine;
-
-// Aygün Özgür
-
-// For General Purposes: 
-// Don't use Property, use m_ prefix for member variables
-// If i use Value Types, use in keyword for parameters
 
 namespace Snake.Runtime.Mono
 {
-    public class SnakeGameMono : MonoBehaviour
+    public class GameStarter : MonoBehaviour
     {
         //Create width and height variables and use SerializeField attribute
         [SerializeField] private int m_Width = 10;
